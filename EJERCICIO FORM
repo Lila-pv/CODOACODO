@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Ejercicio Forms</title>
+</head>
+<body>
+<form>
+<form action="mailto:lyla.laly@gmail.com" method="post" enctype="text/plain">
+<br>
+    <h1> <b> <h1 align= "center"> Acceso al Sistema</b></h1> 
+
+<p> <p align="center">
+DNI: <input type="number" name="documento" size="25" maxlength="50" value="11111111">
+
+<br>
+
+Usuario: <input type="text" name="user" size="25" maxlength="50" value="alumno-ejemplo">
+
+<br>
+
+Clave: <input type="password" name="contraseña" size="25" maxlength="50" value="********">
+
+<br>
+
+<input type="submit" value="Ingresar">
+
+<br>
+</p>
+</form>
+<br>
+<br>
+<br>
+<br>
+<p> <b> <i> <p align=center> <font color= "#C70039" size="3"> Codo a Codo - 2021 / Alumna: Lila Pinto Vaz </b></i>
+</p>
+</body>
+</html>
